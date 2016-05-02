@@ -1,0 +1,28 @@
+{
+    "name": "benjaminlistwon/saasparilla",
+    "description": "Sassparilla aims to be an open, free SaaS starter kit for Laravel",
+    "keywords": ["laravel", "saas", "team", "billing"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Benjamin Listwon",
+            "email": "ben@benjaminlistwon.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/benjaminlistwon/saasparilla/issues",
+        "source": "https://github.com/benjaminlistwon/saasparilla"
+    },
+    "require": {
+        "php": ">=5.5.9",
+        "laravel/cashier": "~6.0",
+        "mpociot/teamwork": "~3.0"
+    },
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "Benjaminlistwon\\Saasparilla\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}

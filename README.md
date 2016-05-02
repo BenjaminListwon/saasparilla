@@ -1,2 +1,2 @@
 # saasparilla
-An open alternative to Laravel Spark.
+An open, free SaaS starter kit for Laravel.
